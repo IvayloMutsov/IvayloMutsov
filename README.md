@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @IvayloMutsov
-- 👀 I’m interested in Game development and football
-- 🌱 I’m currently learning Java in SoftUni
+-  Hi, I’m @IvayloMutsov
+-  I’m interested in Game development and football
+-  I’m currently learning C# in SoftUni
+-  I have learned some Java in SoftUni
